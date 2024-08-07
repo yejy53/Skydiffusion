@@ -33,6 +33,7 @@ conda env update --name skydiffusion --file environment.yaml
 The publicly available datasets used in this paper can be obtained from the following sources: 
 
 **Preparing CVUSA Dataset.**  The dataset can be downloaded [here](https://mvrl.cse.wustl.edu/datasets/cvusa). After unzipping the dataset, prepare the training and testing data as discussed in [our paper](https://www.arxiv.org/abs/2408.01812),  We have also prepared categorized dataset documentation in the datasets folder.
+
 **Preparing CVACT Dataset.**  The dataset can be downloaded [here](https://github.com/Liumouliu/OriCNN). After unzipping the dataset, prepare the training and testing data as discussed in [our paper](https://www.arxiv.org/abs/2408.01812),  We have also prepared categorized dataset documentation in the datasets folder.
 
 
